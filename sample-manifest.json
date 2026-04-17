@@ -1,12 +1,12 @@
 {
-  "export_job_id": "f8726758-ee36-4786-a18f-ec8c6d3555c3",
+  "export_job_id": "f355aa9e-f469-49e6-9ea9-a3b0f088cffc",
   "id_short": 546973,
-  "published_at": "2026-04-13T19:09:49Z",
+  "published_at": "2026-04-17T19:37:38Z",
   "repo_name": "all-restaurants-in-olympia-lacey-tumwater-metro-washington-us-sample-546973",
   "sample_asset_name": "beamstation_546973_restaurants-us-olympialaceytumwaterwa_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/546973/beamstation_546973_restaurants-us-olympialaceytumwaterwa_SAMPLE_DIST.csv",
   "sample_records": 36,
-  "sample_sha256": "a25e582ccb2ae301adca00797a694db9a46863a53f71634e1a061a3cb278712a",
-  "sample_size_bytes": 146015,
-  "total_records": 366
+  "sample_sha256": "6fa4773b58cd6807e4c6e2417f3ade66bfdb8ec4f226e7edf7161ec0ff08000c",
+  "sample_size_bytes": 143819,
+  "total_records": 364
 }

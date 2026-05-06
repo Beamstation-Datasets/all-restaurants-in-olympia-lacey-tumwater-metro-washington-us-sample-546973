@@ -1,6 +1,6 @@
 # All Restaurants in Olympia-Lacey-Tumwater (Metro), Washington, US
 
-> Free BeamStation sample export with 34 rows and masked direct-contact fields.
+> Free BeamStation sample export with 40 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `546973` |
 | Location | Olympia-Lacey-Tumwater, WA |
 | Category | Restaurants |
-| Full dataset size | 342 records |
-| Free sample size | 34 records (9.94%) |
-| Last export | 2026-04-21T12:29:51.347127+00:00 |
+| Full dataset size | 400 records |
+| Free sample size | 40 records (10.0%) |
+| Last export | 2026-05-06T01:08:51.528219+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-olympia-lacey-tumwater-metro-washington-us-sample-546973/releases/download/sample-latest/beamstation_546973_restaurants-us-olympialaceytumwaterwa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
